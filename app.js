@@ -18,7 +18,7 @@ app.post("/", function (req, res) {
 
     
 
-    const api_key = "d1194d73e30678a744766ab1cdccf9a8";
+    const api_key = "";
     const city = req.body.cityName;;
     const unit = "metric";
 
